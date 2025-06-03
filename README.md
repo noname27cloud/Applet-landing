@@ -1,5 +1,9 @@
 # 🌐 Interactive Landing Page
 
+## 🖥 Demo
+
+🔗 [Открыть приложение](https://noname27cloud.github.io/Applet-landing/)
+
 ## 📋 Project Description
 
 A static landing page enhanced with interactive elements using:
